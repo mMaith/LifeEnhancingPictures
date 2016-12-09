@@ -435,10 +435,8 @@ Blog Post CSS
 	-ms-box-shadow: 0 -1px 0 #e0e0e0;
 	-o-box-shadow: 0 -1px 0 #e0e0e0;
 	box-shadow: 0 -1px 0 #e0e0e0;
-	background: #F4F4F4!important;
+	background: #F4F4F4;
 	padding: 10px 20px;
-	margin:0!important;
-	text-indent:0!important;
 }
 
 .header-wrap {
@@ -596,10 +594,10 @@ Blog Post CSS
 /***** Page Nav CSS *****/
 #blog-pager {
 	clear:both;
-	margin:0!important;
-	margin-top: 25px!important;
-	text-align:center!important;
-	overflow:visible!important;
+	margin:0;
+	margin-top: 25px;
+	text-align:center;
+	overflow:visible;
 }
 
 #blog-pager-content {
