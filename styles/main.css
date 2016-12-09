@@ -435,9 +435,10 @@ Blog Post CSS
 	-ms-box-shadow: 0 -1px 0 #e0e0e0;
 	-o-box-shadow: 0 -1px 0 #e0e0e0;
 	box-shadow: 0 -1px 0 #e0e0e0;
-	background: #F4F4F4;
+	background: #F4F4F4!important;
 	padding: 10px 20px;
-	
+	margin:0!important;
+	text-indent:0!important;
 }
 
 .header-wrap {
