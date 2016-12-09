@@ -1,0 +1,5 @@
+#blog-pager, #comments-wrapper { display: none; }
+
+.post {
+	padding: 20px; 
+}
