@@ -1,0 +1,23 @@
+span#blog-pager-home-link {
+	display: initial;
+}
+
+.item-control a:hover {
+	text-decoration:underline !important;
+}
+
+.ct-wrapper img:hover {
+	filter: grayscale(100%);
+	-webkit-transition: all 0.3s linear;
+	-moz-transition: all 0.3s linear;
+	-o-transition: all 0.3s linear;
+	-ms-transition: all 0.3s linear;
+	transition: all 0.3s linear;
+}
+
+.post {
+	padding: 20px; 
+}
+.footer-credits {
+	margin-top: 25px; 
+}
