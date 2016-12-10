@@ -1,0 +1,19 @@
+.sidebar-wrapper {
+	display:none;
+}
+
+.blog-posts {
+  display: block;  
+  font-size: 0;
+  margin-left: -30px;
+}
+
+.post-title{
+	display:none;
+}
+
+.main-wrapper{margin:0;}
+
+.post-body.index {
+	padding: 10px;
+}
