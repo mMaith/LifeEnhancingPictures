@@ -36,4 +36,3 @@ function resizeThumb(e, b) {
 			}
 		}
 resizeThumb("PopularPosts1", 320);
-resizeThumb("PostWrap1", 320);
