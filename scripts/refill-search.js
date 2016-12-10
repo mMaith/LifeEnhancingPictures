@@ -6,8 +6,11 @@ if(window.location.pathname.includes("search")) {
 			for (i=0; i< parameterArray.length; i++) {
 				parameter = parameterArray[i].split("=");
 				if (parameter[0] == "q") {
-					document.getElementById("s").value = parameter[1];
-					break;
+					value = parameter[1];
+					if(value) {
+						document.getElementById("s").value = value.split("+").join(" ");
+						break;
+					}
 				}
 			}
 }
