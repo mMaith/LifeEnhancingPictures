@@ -437,6 +437,7 @@ Blog Post CSS
 	box-shadow: 0 -1px 0 #e0e0e0;
 	background: #F4F4F4;
 	padding: 10px 20px;
+	text-indent:0;
 }
 
 .header-wrap {
