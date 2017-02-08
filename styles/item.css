@@ -18,6 +18,11 @@ span#blog-pager-home-link {
 .post {
 	padding: 20px; 
 }
+
 .footer-credits {
 	margin-top: 25px; 
+}
+
+p {
+	-webkit-margin-after: 5px;
 }
